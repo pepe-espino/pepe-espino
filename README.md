@@ -9,6 +9,7 @@
 <H4> Frameworks </H4>
 <span>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/junit-4479A1.svg?style=for-the-badge&logo=junit&logoColor=white">
 </span>
 <H4> Others </H4>
 <span>
